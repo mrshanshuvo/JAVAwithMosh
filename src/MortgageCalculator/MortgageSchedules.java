@@ -9,18 +9,26 @@ public class MortgageSchedules {
         double interestRate = readNumber("Annual Interest Rate: ",1,30);
         byte mortgagePeriod = (byte) readNumber("Period(Years): ",1,30);
 
-        double mortgage = calculateMortgage(principalAmount,interestRate,mortgagePeriod);
-        System.out.println("MORTGAGE");
-        System.out.println("--------");
-        System.out.printf("Monthly Payment: %.2f\n",mortgage);
+        displayMortgage(principalAmount, interestRate, mortgagePeriod);
+        displayPaymentSchedule(mortgagePeriod, principalAmount, interestRate);
+    }
 
+    private static void displayPaymentSchedule(byte mortgagePeriod, int principalAmount, double interestRate) {
         System.out.println("PAYMENT SCHEDULE");
         System.out.println("----------------");
-        for(int numberOfPaidInterest=1; numberOfPaidInterest<=mortgagePeriod*12; numberOfPaidInterest++){
-            double payment = paymentSchedule(principalAmount,interestRate,mortgagePeriod,numberOfPaidInterest);
+        for(int numberOfPaidInterest = 1; numberOfPaidInterest<= mortgagePeriod *12; numberOfPaidInterest++){
+            double payment = paymentSchedule(principalAmount, interestRate, mortgagePeriod,numberOfPaidInterest);
             System.out.println("\t"+ NumberFormat.getCurrencyInstance().format(payment));
         }
     }
+
+    private static void displayMortgage(int principalAmount, double interestRate, byte mortgagePeriod) {
+        double mortgage = calculateMortgage(principalAmount, interestRate, mortgagePeriod);
+        System.out.println("MORTGAGE");
+        System.out.println("--------");
+        System.out.printf("Monthly Payment: %.2f\n",mortgage);
+    }
+
     public static double calculateMortgage(int principalAmount, double interestRate, byte mortgagePeriod){
         interestRate = interestRate/(100*12);
         mortgagePeriod *= 12;
