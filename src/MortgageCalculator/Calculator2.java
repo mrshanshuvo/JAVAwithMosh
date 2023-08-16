@@ -1,6 +1,7 @@
 package MortgageCalculator;
 import java.util.Scanner;
 public class Calculator2 {
+    // This Mortgage Calculator is designed with While Loop
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int principalAmount = 0, mortgagePeriod = 0;

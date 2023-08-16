@@ -3,6 +3,7 @@ package MortgageCalculator;
 import java.util.Scanner;
 
 public class Calculator {
+    // This is a basic Mortgage Calculator
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Principal: ");
