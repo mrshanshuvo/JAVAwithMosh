@@ -1,4 +1,4 @@
-package MortgageCalculator;
+package ProceduralProgramming.MortgageCalculator;
 import java.util.Scanner;
 public class Calculator3 {
     // This Mortgage Calculator is designed with Extracting Methods

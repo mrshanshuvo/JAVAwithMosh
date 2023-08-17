@@ -1,4 +1,4 @@
-package MortgageCalculator;
+package ProceduralProgramming.MortgageCalculator;
 import java.util.Scanner;
 public class Calculator2 {
     // This Mortgage Calculator is designed with While Loop

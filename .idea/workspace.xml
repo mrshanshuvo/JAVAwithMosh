@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="735f37fc-51fc-48d6-ae35-787d2b153bf9" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator/MortgageSchedules.java" afterDir="false" />
+    <list default="true" id="735f37fc-51fc-48d6-ae35-787d2b153bf9" name="Changes" comment="Used Refactor to reduce lines from main methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,11 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1692215887957</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1692218955778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692218955778</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Used Refactor to reduce lines from main methods">
+      <option name="closed" value="true" />
+      <created>1692219393622</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692219393622</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Used Refactor to reduce lines from main methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Used Refactor to reduce lines from main methods" />
   </component>
 </project>
