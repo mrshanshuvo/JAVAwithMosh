@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735f37fc-51fc-48d6-ae35-787d2b153bf9" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/MAIN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/UIControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOProgramming/Inheritance/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/TextBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Programming Languages/JAVA/JAVAwithMosh/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Programming Languages/JAVA/JAVAwithMosh/src/OOProgramming/Polymorphism",
+    "onboarding.tips.debug.path": "E:/Programming Languages/JAVA/JAVAwithMosh/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming Languages\JAVA\JAVAwithMosh\src\OOProgramming\Polymorphism" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692310704469</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1692571882955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692571882955</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
