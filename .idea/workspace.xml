@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="735f37fc-51fc-48d6-ae35-787d2b153bf9" name="Changes" comment="Organized the Order">
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Encapsulation/MAIN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Encapsulation/WageCalculate.java" afterDir="false" />
+    <list default="true" id="735f37fc-51fc-48d6-ae35-787d2b153bf9" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/MAIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Inheritance/UIControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Programming Languages/JAVA/JAVAwithMosh/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Programming Languages/JAVA/JAVAwithMosh/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,13 +109,25 @@
       <option name="project" value="LOCAL" />
       <updated>1692309598559</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1692310704469</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692310704469</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="Used Refactor to reduce lines from main methods" />
     <MESSAGE value="Organized the Order" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organized the Order" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
