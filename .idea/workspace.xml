@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735f37fc-51fc-48d6-ae35-787d2b153bf9" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Interface/MAIN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Interface/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Interface/TaxCalculator2023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Interface/TaxReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOProgramming/Interface/TaxCalculator2022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOProgramming/Interface/MAIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOProgramming/Interface/MAIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOProgramming/Interface/TaxReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOProgramming/Interface/TaxReport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692572657257</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1692575049087</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692575049087</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
